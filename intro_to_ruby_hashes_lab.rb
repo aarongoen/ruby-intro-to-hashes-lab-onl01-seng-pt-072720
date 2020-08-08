@@ -66,6 +66,6 @@ def monopoly_with_fourth_tier
 end
 
 reading_railroad[mortgage_value] = "$100"
-names["pennsylvania_railroad"] = mortgage_value"=>"$200"
+[names["]pennsylvania_railroad"] = mortgage_value"=>"$200"
 names["b_and_o_railroad"] = "mortgage_value"=>"$400"
 names["shortline"] ="mortgage_value"=>"$800"
